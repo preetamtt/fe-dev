@@ -1,0 +1,41 @@
+h1 {
+  color: blue;
+}
+
+#title1{
+  color: red;
+}
+
+#title2 {
+  color: green;
+}
+
+ol {
+  background-color: grey;
+}
+
+ol li {
+  color: yellow;
+  background-color: red;
+}
+
+ol.pretty {
+  font-family: monospace;
+}
+
+ol .ugly {
+  color: purple;
+}
+
+.textHeader {
+  font-style: italic;
+}
+
+div.inner {
+  position: absolute;
+  top: 100px;
+}
+div.outer{
+  position: absolute;
+  /*top: 100px;*/
+}
